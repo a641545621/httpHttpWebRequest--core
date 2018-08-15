@@ -1,0 +1,10 @@
+E:\learntest\huilv\core2.1\bin\Debug\netcoreapp2.1\core2.1.deps.json
+E:\learntest\huilv\core2.1\bin\Debug\netcoreapp2.1\core2.1.runtimeconfig.json
+E:\learntest\huilv\core2.1\bin\Debug\netcoreapp2.1\core2.1.runtimeconfig.dev.json
+E:\learntest\huilv\core2.1\bin\Debug\netcoreapp2.1\core2.1.dll
+E:\learntest\huilv\core2.1\bin\Debug\netcoreapp2.1\core2.1.pdb
+E:\learntest\huilv\core2.1\obj\Debug\netcoreapp2.1\core2.1.csproj.CoreCompileInputs.cache
+E:\learntest\huilv\core2.1\obj\Debug\netcoreapp2.1\core2.1.AssemblyInfoInputs.cache
+E:\learntest\huilv\core2.1\obj\Debug\netcoreapp2.1\core2.1.AssemblyInfo.cs
+E:\learntest\huilv\core2.1\obj\Debug\netcoreapp2.1\core2.1.dll
+E:\learntest\huilv\core2.1\obj\Debug\netcoreapp2.1\core2.1.pdb
